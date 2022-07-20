@@ -1,0 +1,49 @@
+<!--estructura XML-->
+<descripciones>
+	<direccionOrigen direccion = ""> </direccionOrigen>
+	<direccionDestino direccion = ""> </direccionDestino>
+	<requerimientos>
+		<tipo vehiculo = "" Musica = "" ruta = ""> </tipo>
+		<descripcion> "" </descripcion>
+	</requerimientos>
+</descripciones>
+
+<!--XMLOK-->
+<descripciones>
+	<direccionOrigen direccion = "Cra 1b #21-64"> </direccionOrigen>
+	<direccionDestino direccion = "Cra 2b #12-46"> </direccionDestino>
+	<requerimientos>
+		<tipo vehiculo = "Honda" Musica = "Hip Hop" ruta = "Variante Chia"> </tipo>
+		<descripcion> llamar a la casa 21 </descripcion>
+	</requerimientos>
+</descripciones>'
+
+
+<descripciones>
+	<direccionOrigen direccion = "Cra 3b #31-64"> </direccionOrigen>
+	<direccionDestino direccion = "Cra 4b #13-46"> </direccionDestino>
+	<requerimientos>
+		<tipo vehiculo = "Mercedes Benz" Musica = "Rock" ruta = "Variante Cajica"> </tipo>
+	</requerimientos>
+</descripciones>
+
+<!--XMLNoOK-->
+
+<descripciones>
+    <direccionOrigen direccion = "Mi casa"> </direccionOrigen>
+    <direccionDestino direccion = "casa de un amigo"> </direccionDestino>
+    <requerimientos>
+        <tipo vehiculo = "parapente" Musica = "hamburguesa" ruta = "futbol"> </tipo>
+        <descripcion> 72 </descripcion>
+    </requerimientos>
+</descripciones>'
+
+
+<descripciones>
+    <direccionOrigen direccion = "semaforo"> </direccionOrigen>
+    <direccionDestino direccion = "telefono"> </direccionDestino>
+    <requerimientos>
+        <tipo vehiculo = "parlante" Musica = "zapato" ruta = "sudadera"> </tipo>
+        <descripcion> 12 </descripcion>
+    </requerimientos>
+</descripciones>
